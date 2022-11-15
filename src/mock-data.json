@@ -1,0 +1,61 @@
+[
+  {
+    "index":  "1",
+    "value": "10520",
+    "type": "length",
+    "measureunit": "mi",
+    "destmeasureunit": "km"
+  },
+  {
+    "index": "2",
+    "value": "10520",
+    "type": "length",
+    "measureunit": "mi"
+  },
+  {
+    "index": "3",
+    "value": "05-23-2021",
+    "type": "date"
+  },
+  {
+    "index": "4",
+    "value": "05-23-2021",
+    "type": "date",
+    "destformat": "yyyy-MM-dd"
+  },
+  {
+    "index": "5",
+    "value": "05:30 PM",
+    "type": "time"
+  },
+  {
+    "index": "6",
+    "value": "05:30 PM",
+    "type": "time",
+    "destformat": "hh_mm"
+  },
+  {
+    "index": "7",
+    "value": "05-23-2021 05:30 PM",
+    "type": "datetime"
+  },
+  {
+    "index": "8",
+    "value": "05-23-2021 05:30 PM",
+    "type": "datetime",
+    "destformat": "yyyy-MM-dd / hh_mm"
+  },
+  {
+    "index": "9",
+    "value": "50.30",
+    "type": "currency",
+    "measureunit": "USD"
+  },
+  {
+    "index": "10",
+    "value": "50.30",
+    "type": "currency",
+    "measureunit": "USD",
+    "destmeasureunit": "GBP"
+  }
+]
